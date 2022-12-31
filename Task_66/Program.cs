@@ -16,7 +16,7 @@ else
   Console.Write("Невозможно выполнить действие");
 
 void HappyNewYear(int n)
-		{
+	{
       if(n == m+1)
 			  Console.Write($"{result}");
       else
